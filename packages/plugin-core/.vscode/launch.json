@@ -28,7 +28,6 @@
       "runtimeExecutable": "${execPath}",
       "args": [
         "--extensionDevelopmentPath=${workspaceFolder}",
-        "--disable-extensions",
       ],
       "outFiles": ["${workspaceFolder:plugin-core}/out/**/*.js"],
       "env": {
